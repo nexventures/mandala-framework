@@ -1,0 +1,6 @@
+nexventures Mandala foundation
+Chris Pappas <chris@nexventures.com>
+
+provides a basic set of controllers in the Default namespace to 
+perform user management, authentication, acl definitions etc
+
